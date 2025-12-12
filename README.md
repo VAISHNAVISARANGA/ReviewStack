@@ -1,4 +1,4 @@
-# AI_CODE_REVIEW_ASSISTANT
+# ReviewStack
 
 **AI-powered multi-language code review tool (Static + Gemini AI)**
 
@@ -14,13 +14,13 @@
 - [Configuration](#configuration)
 - [Supported Languages](#supported-languages)
 - [License](#license)
-- [Contact](#contact)
+
 
 ---
 
 ## Overview
 
-AI_CODE_REVIEW_ASSISTANT is a robust, extensible tool designed to automate code review processes using both traditional static analysis and advanced AI-powered review via Google's Gemini AI. The assistant supports multi-language codebases (with Python as default), providing feedback, suggestions, and error detection for developers and teams.
+ReviewStack is a robust, extensible tool designed to automate code review processes using both traditional static analysis and advanced AI-powered review via Google's Gemini AI. The assistant supports multi-language codebases (with Python as default), providing feedback, suggestions, and error detection for developers and teams.
 
 ---
 
@@ -163,12 +163,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Contact
-
-- **Author:** Vaishnavi Saranga
-- **GitHub:** [VAISHNAVISARANGA](https://github.com/VAISHNAVISARANGA)
-- **Issues:** [GitHub Issues](https://github.com/VAISHNAVISARANGA/AI_CODE_REVIEW_ASSISTANT/issues)
-
----
 
 **Happy Coding & Reviewing!**
