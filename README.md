@@ -4,20 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Supported Languages](#supported-languages)
-- [License](#license)
-
-
----
-
 ## Overview
 
 ReviewStack is a robust, extensible tool designed to automate code review processes using both traditional static analysis and advanced AI-powered review via Google's Gemini AI. The assistant supports multi-language codebases (with Python as default), providing feedback, suggestions, and error detection for developers and teams.
